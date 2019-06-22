@@ -1,0 +1,74 @@
+Background property:-
+Background Color
+Background image
+background repeat
+background size
+background clip
+background attachment
+background origin
+background position
+Backgound-clip property: -
+border box
+padding box
+contain box
+Border Property :-
+Border
+border bottom
+border color
+border radius
+border top
+Display Property :-
+    Display:none
+	Visibilty:hidden
+Position Property :-
+	Static
+	Relative
+	Fixed
+	Absolute
+	Sticky
+Latout Overflow Property:-
+	Visible
+	Hidden
+	Scroll
+	Auto
+
+border left color
+border color
+border left
+border top color
+border style
+borderright
+border width
+border image
+Margin Property:-
+Margin 
+margin-right
+Margin-left
+margin-top
+Margin-right
+margin:25px50px40px40px
+Padding Property
+padding
+padding right
+padding left
+padding top
+padding 25px,50px,40px,40px
+Height & width:-
+Outline Property:-
+Outline style
+outline with
+outline color
+outline offset
+Test Fomatting :- 
+Color
+Align
+Text decoration
+text transform
+text indentation
+letter spacing
+line height
+word spacing
+text shadow
+box shadow
+
+
