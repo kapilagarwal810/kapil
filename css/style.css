@@ -1,0 +1,19 @@
+ul li{
+	display: inline-block;
+	height: 24px;
+    background: white;
+    width: 200px;
+    font-weight: bold;
+    text-align: center;
+    float: left;
+}
+ul li a{
+	color: blue;
+	text-decoration: none;
+}
+ul li:hover{
+	background-color: white;
+}
+.active{
+	background-color: skyblue;
+}
